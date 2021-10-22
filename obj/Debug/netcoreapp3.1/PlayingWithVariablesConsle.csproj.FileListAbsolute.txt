@@ -1,0 +1,14 @@
+C:\Users\arome\source\repos\PlayingWithVariables\PlayingWithVariablesConsle\bin\Debug\netcoreapp3.1\PlayingWithVariablesConsle.exe
+C:\Users\arome\source\repos\PlayingWithVariables\PlayingWithVariablesConsle\bin\Debug\netcoreapp3.1\PlayingWithVariablesConsle.deps.json
+C:\Users\arome\source\repos\PlayingWithVariables\PlayingWithVariablesConsle\bin\Debug\netcoreapp3.1\PlayingWithVariablesConsle.runtimeconfig.json
+C:\Users\arome\source\repos\PlayingWithVariables\PlayingWithVariablesConsle\bin\Debug\netcoreapp3.1\PlayingWithVariablesConsle.runtimeconfig.dev.json
+C:\Users\arome\source\repos\PlayingWithVariables\PlayingWithVariablesConsle\bin\Debug\netcoreapp3.1\PlayingWithVariablesConsle.dll
+C:\Users\arome\source\repos\PlayingWithVariables\PlayingWithVariablesConsle\bin\Debug\netcoreapp3.1\PlayingWithVariablesConsle.pdb
+C:\Users\arome\source\repos\PlayingWithVariables\PlayingWithVariablesConsle\obj\Debug\netcoreapp3.1\PlayingWithVariablesConsle.csproj.AssemblyReference.cache
+C:\Users\arome\source\repos\PlayingWithVariables\PlayingWithVariablesConsle\obj\Debug\netcoreapp3.1\PlayingWithVariablesConsle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arome\source\repos\PlayingWithVariables\PlayingWithVariablesConsle\obj\Debug\netcoreapp3.1\PlayingWithVariablesConsle.AssemblyInfoInputs.cache
+C:\Users\arome\source\repos\PlayingWithVariables\PlayingWithVariablesConsle\obj\Debug\netcoreapp3.1\PlayingWithVariablesConsle.AssemblyInfo.cs
+C:\Users\arome\source\repos\PlayingWithVariables\PlayingWithVariablesConsle\obj\Debug\netcoreapp3.1\PlayingWithVariablesConsle.csproj.CoreCompileInputs.cache
+C:\Users\arome\source\repos\PlayingWithVariables\PlayingWithVariablesConsle\obj\Debug\netcoreapp3.1\PlayingWithVariablesConsle.dll
+C:\Users\arome\source\repos\PlayingWithVariables\PlayingWithVariablesConsle\obj\Debug\netcoreapp3.1\PlayingWithVariablesConsle.pdb
+C:\Users\arome\source\repos\PlayingWithVariables\PlayingWithVariablesConsle\obj\Debug\netcoreapp3.1\PlayingWithVariablesConsle.genruntimeconfig.cache
